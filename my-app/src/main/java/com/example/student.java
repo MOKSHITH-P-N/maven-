@@ -1,0 +1,11 @@
+package com.example;
+
+public class student {
+    String name;
+    int age;
+
+    public student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+}
